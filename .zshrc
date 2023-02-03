@@ -82,4 +82,4 @@ fkill() {
 }
 
 #source nnn settings
-source ~/vim-config/zsh/nnn
+source ~/dotfiles/nnn
