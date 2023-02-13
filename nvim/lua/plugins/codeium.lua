@@ -1,3 +1,4 @@
+-- look at open source alternative: https://github.com/dense-analysis/neural
 -- main plugin
 -- return {
 --   "Exafunction/codeium.vim",
